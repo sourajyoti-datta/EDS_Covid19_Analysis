@@ -1,4 +1,4 @@
-# Enterprise Data Science coursework Project for analysing Covid19 data.
+# Enterprise Data Science Project for analysing Covid19 data.
 
 Link to data files: [Here](EDS_Covid19_Exp_results/data) <br>
 
