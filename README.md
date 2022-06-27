@@ -1,8 +1,8 @@
 # EDS_Covid19_Analysis
 Enterprise Data Science coursework Project for analysing Covid19 data.
 
-Link to code: [Here](Covid19_Exploratory_Data_Analysis.ipynb)
-Link to data files: [Here](EDS_Covid19_Exp_results/data)
+Link to code: [Here](Covid19_Exploratory_Data_Analysis.ipynb) <br>
+Link to data files: [Here](EDS_Covid19_Exp_results/data) <br>
 
 Delivery 1 : Figure 1 The relative cases overtime of Covid infectors (absolut Covid cases/population size):
 <p align="center">
@@ -13,3 +13,7 @@ Delivery 2 : Figure 2 The vaccination rate (percentage of the population) over t
 <p align="center">
   <img src="https://github.com/sourajyoti-datta/EDS_Covid19_Analysis/blob/main/Delivery_2_Figure_2.png">
 </p>
+
+Data from ***Our World in Data***:
+- Github [Link](https://github.com/owid/covid-19-data)
+- Website [Link](https://ourworldindata.org/)
