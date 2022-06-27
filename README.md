@@ -2,6 +2,7 @@
 Enterprise Data Science coursework Project for analysing Covid19 data.
 
 Link to code: [Here](Covid19_Exploratory_Data_Analysis.ipynb)
+Link to data files: [Here](EDS_Covid19_Exp_results/data)
 
 Delivery 1 : Figure 1 The relative cases overtime of Covid infectors (absolut Covid cases/population size):
 <p align="center">
