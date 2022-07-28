@@ -19,6 +19,7 @@ Link to EDA code: [Here](https://github.com/sourajyoti-datta/EDS_Covid19_Analysi
 ### Final project delivery
 
 Link to Dashboard code: [Here](https://github.com/sourajyoti-datta/EDS_Covid19_Analysis/blob/main/notebooks/Covid19_Dashboard_and_SIR.ipynb) <br>
+Link to Explanation Video: [Here](https://github.com/sourajyoti-datta/EDS_Covid19_Analysis/blob/main/docs/Dashboard_Explanation_5mins.mp4) <br>
 
 #### Delivery 3 : Development of the Covid-19 dashboard prototype
 
