@@ -1,4 +1,4 @@
-# Enterprise Data Science Project for analysing Covid19 data.
+# Enterprise Data Science Project for analysing Covid-19 data.
 
 Technische Universität Kaiserslautern Project course: [Link](https://modhb.uni-kl.de/mhb/modules/EIT-EMS-653-M-6/) <br>
 
