@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+plotly
+missingno
+GitPython
+dash
+dash_daq
+dash_bootstrap_components
